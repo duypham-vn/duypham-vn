@@ -48,7 +48,7 @@
 
 ## Working
 
-- `Owner` of CV online [https://cv.anhduy.online](https://cv.anhduy.online) where I can share my CV.
+- `Owner` of CV online [https://duypham.id.vn](https://duypham.id.vn) where I can share my CV.
 
 ## Projects for teaching
 
